@@ -27,7 +27,7 @@ Embark on your storytelling odyssey with TALE TELLER by following these simple s
 1. **Clone the Repository**: Begin your journey by cloning the TALE TELLER repository to your local environment.
 
    ```bash
-   git clone https://github.com/ekagrashukla/GRANNY-GPT2-Based-Multiple_Genre-Story-Generator-Web-Application.git
+   git clone https:https://github.com/Lordsongnanadurai/TALE-TELLER
 
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies using pip.
